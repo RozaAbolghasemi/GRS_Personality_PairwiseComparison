@@ -20,7 +20,7 @@ chain associated with the influence graph. Our exp
 
 The logical diagram illustrating the process of the proposed method is as follows:
 <p align="center">
-<img style="width: 80%;" src="https://github.com/RozaAbolghasemi/GRS_Personality_PairwiseComparison/blob/main/Images/Diagram.png">
+<img style="width: 60%;" src="https://github.com/RozaAbolghasemi/GRS_Personality_PairwiseComparison/blob/main/Images/Diagram.png">
 </p>
 
 ## Execution Dependencies
@@ -40,13 +40,13 @@ pip install matplotlib.pyplot
 The hyperparameters for matrix factorization, group sizes and no. of generated groups can be changed through the config file.
 
 ### Dataset
-* Pairwise preference data: The dataset for the MFP method was acquired from an online experiment performed by [Blèdaitè et al.] (https://dl.acm.org/doi/pdf/10.1145/2700171.2791049?casa_token=hjYzq9yecUsAAAAA:oR_T8e6uKVasBZ77VpqAGnzFi0jRk__jeiz9DkGq3ZTQa3TSIjiii_zfJBSidmQ5LM4PDhHqMw_i) to collect users’
+* Pairwise preference data: The dataset for the MFP method was acquired from an online experiment performed by [Blèdaitè et al.](https://dl.acm.org/doi/pdf/10.1145/2700171.2791049?casa_token=hjYzq9yecUsAAAAA:oR_T8e6uKVasBZ77VpqAGnzFi0jRk__jeiz9DkGq3ZTQa3TSIjiii_zfJBSidmQ5LM4PDhHqMw_i) to collect users’
 pairwise preferences. The authors developed an online interface that allows users to compare different movie pairs and enter
 their pairwise scores. In this experiment, a total of 2,262 pairwise scores related to 100 movies from the MovieLens dataset
-were collected based on feedback from 46 users. In addition, 73,078 movie ratings from 1,128 users in the [MovieLens 100 K] (https://grouplens.org/datasets/movielens/100k/)
+were collected based on feedback from 46 users. In addition, 73,078 movie ratings from 1,128 users in the [MovieLens 100 K](https://grouplens.org/datasets/movielens/100k/)
 dataset were used. These movie ratings were converted into pairwise scores. 
 <p align="center">
-<img style="width: 80%;" src="https://github.com/RozaAbolghasemi/GRS_Personality_PairwiseComparison/blob/main/Images/Data_Pairwise.png">
+<img style="width: 60%;" src="https://github.com/RozaAbolghasemi/GRS_Personality_PairwiseComparison/blob/main/Images/Data_Pairwise.png">
 </p>
 ----------------------------------------------------------------------
 
