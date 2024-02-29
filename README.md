@@ -1,4 +1,4 @@
-# Predicting missing pairwise preferences in GDM
+# A personality-aware group recommendation system based on pairwise preferences
 Python code for a project focusing on "Group Recommendation Systems (GRS)" based on the personality of the users and their pairwise preferences on items.
 "A personality-aware group recommendation system based on pairwise preferences (Information Science 2022)"
 
