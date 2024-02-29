@@ -27,7 +27,7 @@ The logical diagram illustrating the process of the proposed method is as follow
 The codes can be run directly.
 Also, the python code can be run by: 
 ```
-python ./Pairwise.py
+python ./MFP.py
 ```
 
 We are using pandas, numpy, scipy and warnings modules. Install them by
