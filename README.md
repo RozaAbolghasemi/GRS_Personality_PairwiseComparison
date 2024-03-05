@@ -4,7 +4,7 @@ Python code for a project focusing on "Group Recommendation Systems (GRS)" based
 
 
 
-### Abstract
+### project Description
 Human personality plays a crucial role in decision-making and it has paramount importance when individuals negotiate with each other to reach a common group decision.
 Such situations are conceivable, for instance, when a group of individuals want to watch
 a movie together. It is well known that people influence each other’s decisions, the more
